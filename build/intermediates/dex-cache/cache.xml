@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-03c8df36d50a22ff5ded1ff3484e215c298242f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Liubai\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-19bd1eec5aa37e03d425dee7047b30bcca3a8133.jar" />
+    </item>
+    <item
+        jar="G:\SAFTY\QQshare\QQsharejoke\app\src\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2-2be6be442cdc4fb9c32068b19b6cf8f9d34518c7.jar" />
+    </item>
+    <item
+        jar="G:\SAFTY\QQshare\QQsharejoke\app\src\libs\open_sdk_r5756.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\pre-dexed\debug\open_sdk_r5756-9dd26e51f7abdd8e2fb70ec663efe72485792b03.jar" />
+    </item>
+    <item
+        jar="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\pre-dexed\debug\classes-168d07358a9c9cfcda6ac495e88fdd718073f7a3.jar" />
+    </item>
+    <item
+        jar="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="G:\SAFTY\QQshare\QQsharejoke\app\build\intermediates\pre-dexed\debug\classes-e71784e15367c01b0749ab52b6377f47ec9873d8.jar" />
+    </item>
+
+</items>
